@@ -18,10 +18,9 @@ I experimented with multiple algorithms, but XGBoost gave the best performance. 
 ✅ Model Persistence – Saved the trained model using Pickle for future use.
 
 📂 Project Structure
-├── notebooks/             # Jupyter/Colab notebooks
-├── churn_model.pkl        # Saved trained model
-└── README.md              # Project documentation
-
+├── Jupyter/Colab notebooks
+├── churn_model.pkl
+└── README.md 
 ⚙️ Tech Stack
 
 Python 🐍
